@@ -14,7 +14,7 @@ jrepxc
 
 # Credits
 
-[086's](https://github.com/zeroeightysix) [KAMI](https://github.com/zeroeightysix/KAMI) for the Events and Tesselator
+[086's](https://github.com/zeroeightysix) [KAMI](https://github.com/zeroeightysix/KAMI) for some of the Events and the RenderUtil
 
 [ZeroMemes's](https://github.com/ZeroMemes) [Alpine](https://github.com/ZeroMemes/Alpine) for the Event System
 
