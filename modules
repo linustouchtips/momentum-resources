@@ -1,0 +1,34 @@
+modules list:
+-------------------------------------------------------------------------------------------------------------------
+chat:
+chatsuffix - adds a suffix at the end of your messages
+chatprefix - adds a prefix to the beginning of your messages
+spammer - spams messages in chat
+
+combat:
+crystalaura - automatically crystals nearby players
+autototem - automatically replaces totems in your offhand
+fastbow - makes the release time for bows almost non-existant
+quickexp - automatically mends your armor
+
+gui:
+activemodules - shows the modules you have toggled on the hud
+watermark - shows the client name and version on the hud
+hud -  displays various information on the game overlay
+
+misc:
+antihunger - makes it so you lose no hunger
+discordrpc - shows a custom discord rich presence on your discord profile
+playeralert - notifies you when a player is within render distance of you
+
+movement:
+biomespeed - makes you move faster in water and ice
+sprint - automatically sprints for you
+timer - changes the world ticks to a custom value
+velocity - changes player velocity attributes
+
+render:
+fullbright - makes the world much brighter
+noweather - disables client side weather
+worldcolor - changes the color of the fog and sky
+-------------------------------------------------------------------------------------------------------------------
