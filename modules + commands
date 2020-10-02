@@ -40,3 +40,14 @@ noweather - disables client side weather
 worldcolor - changes the color of the fog and sky
 holeesp - renders safe holes to stand in while crystalling
 -------------------------------------------------------------------------------------------------------------------
+
+commands list:
+-------------------------------------------------------------------------------------------------------------------
+default prefix is set to "!"
+defautl gui key is set to "P"
+
+!bind <key> - binds a module to the desired key
+!toggle <module-name> - toggles the desired module
+!prefix <letter/symbol> - sets the prefix to the desired letter/symbol
+
+-------------------------------------------------------------------------------------------------------------------
