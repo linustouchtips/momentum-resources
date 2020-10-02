@@ -1,15 +1,18 @@
 modules list:
 -------------------------------------------------------------------------------------------------------------------
-chat:
-chatsuffix - adds a suffix at the end of your messages
-chatprefix - adds a prefix to the beginning of your messages
-spammer - spams messages in chat
+player:
+antihunger - makes it so you lose no hunger
+packetmine - mines blocks by sending packets
+timer - changes the world ticks to a custom value
+extraslots - allows you to use your crafting slots as extra inventory space
 
 combat:
 crystalaura - automatically crystals nearby players
+offhand - places various items in your offhand and switches to a totem when you're low on health
 autototem - automatically replaces totems in your offhand
 fastbow - makes the release time for bows almost non-existant
 quickexp - automatically mends your armor
+web - places webs when someone comes near you
 
 gui:
 activemodules - shows the modules you have toggled on the hud
@@ -17,18 +20,23 @@ watermark - shows the client name and version on the hud
 hud -  displays various information on the game overlay
 
 misc:
-antihunger - makes it so you lose no hunger
 discordrpc - shows a custom discord rich presence on your discord profile
 playeralert - notifies you when a player is within render distance of you
+chatsuffix - adds a suffix at the end of your messages
+chatprefix - adds a prefix to the beginning of your messages
+donkeyfinder - locates nearby chestable entities
 
 movement:
 biomespeed - makes you move faster in water and ice
 sprint - automatically sprints for you
-timer - changes the world ticks to a custom value
 velocity - changes player velocity attributes
+longjump - allows you to jump farther
+holemovement - modifies player movement in and around holes
+guimove - allows you to move while you're in a gui
 
 render:
 fullbright - makes the world much brighter
 noweather - disables client side weather
 worldcolor - changes the color of the fog and sky
+holeesp - renders safe holes to stand in while crystalling
 -------------------------------------------------------------------------------------------------------------------
