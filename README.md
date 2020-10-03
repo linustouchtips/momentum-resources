@@ -1,16 +1,16 @@
 # Momentum
 
-Momentum is a utility mod for Minecraft anarchy servers. Most of the code is written from scratch, any pasted code will be properly credited in the read-me. If you feel that you have not been creditted, feel free to contact me at linus touch tips#3905. The client is public (but not open source) and will be updated as frequently as possible. The discord can be found here: https://discord.gg/Nvd4xSJ
+Momentum is a utility mod for Minecraft anarchy servers. Most of the code is written from scratch, any pasted code will be properly credited in the read-me. If you feel that you have not been creditted, feel free to contact me at linus touch tips#0001. The client is public (but not open source) and will be updated as frequently as possible. The discord can be found here: https://discord.gg/Nvd4xSJ
 
 # Developers/Contributors:
 
 linustouchtips24 (owner)
 
-sehhan
-
 xcc8
 
-jrepxc
+jake
+
+LittleDraily
 
 # Credits
 
