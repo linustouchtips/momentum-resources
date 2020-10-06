@@ -21,3 +21,5 @@ LittleDraily
 [LittleDraily](https://github.com/LittleDraily) for [HOPE](https://github.com/LittleDraily/HOPE)
 
 SpongePowered for MixinsHandler
+
+ForgeHax for some HUD components
